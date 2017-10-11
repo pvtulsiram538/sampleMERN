@@ -1,4 +1,4 @@
-# sample POC
+# sample example 
 covering login authentication , Authorised routing & lazyload  and built with webpack .
 
 **Note : This application needs Node 6.x. as we are using  
