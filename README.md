@@ -1,5 +1,8 @@
 # sample POC
-covering login authentication , Authorised routing & lazy load with webpack 
+covering login authentication , Authorised routing & lazy load with webpack .
+
+**Note : This application needs Node 7.x. as we are using  
+async await & ES6 class structure and concepts
 
 ## Quickstart
 
@@ -20,3 +23,8 @@ then start the server
 ```
   npm run server  
 ```
+It automatically creates default user
+username:pvtulsiram538@gmail.com
+password:123456
+Now check localhost:3002
+
