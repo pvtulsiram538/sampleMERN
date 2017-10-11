@@ -1,2 +1,2 @@
 # sampleMERN
-quickstarter
+lazy load of images
