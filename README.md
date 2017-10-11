@@ -1,7 +1,7 @@
 # sample POC
 covering login authentication , Authorised routing & lazyload  and built with webpack .
 
-**Note : This application needs Node 7.x. as we are using  
+**Note : This application needs Node 6.x. as we are using  
 async await & ES6 class structure and concepts
 
 ## Quickstart
