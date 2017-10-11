@@ -1,0 +1,40 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 9 Aug, 2017, 12:14:16 PM
+    Author     : 3211
+*/
+
+/**
+ *
+ *
+ * 
+ *
+ * 
+ */
+
+:root {
+  /*
+   * Typography
+   * ======================================================================== */
+
+  --font-family-base: 'Segoe UI', 'HelveticaNeue-Light', sans-serif;
+
+  /*
+   * Layout
+   * ======================================================================== */
+
+  --max-content-width: 1000px;
+
+  /*
+   * Media queries breakpoints
+   * ======================================================================== */
+
+  --screen-xs-min: 480px;  /* Extra small screen / phone */
+  --screen-sm-min: 768px;  /* Small screen / tablet */
+  --screen-md-min: 992px;  /* Medium screen / desktop */
+  --screen-lg-min: 1200px; /* Large screen / wide desktop */
+}
