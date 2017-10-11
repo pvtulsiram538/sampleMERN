@@ -24,7 +24,10 @@ then start the server
   npm run server  
 ```
 It automatically creates default user
+
 username:pvtulsiram538@gmail.com
+
 password:123456
+
 Now check localhost:3002
 
